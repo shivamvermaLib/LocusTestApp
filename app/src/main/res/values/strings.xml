@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocusTestApp</string>
+    <string name="submit">Submit</string>
+    <string name="camera">Camera</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="permission_rationale_details">Reading external permission is required by this app</string>
+    <string name="permission_settings">Camera permission required for this feature to be available.\nPlease grant the permission</string>
+    <string name="cancel">Cancel Dialog</string>
+    <string name="provide_comment">Provide Comment?</string>
+    <string name="type_comment">Type Comment</string>
+</resources>
